@@ -1,0 +1,985 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mrg",
+				"margin"
+			],
+			[
+				"bgc",
+				"bgc	background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"mr",
+				"margin-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"id_",
+				"id_subcat"
+			],
+			[
+				"sub",
+				"subcat"
+			],
+			[
+				"id",
+				"idAdvert"
+			],
+			[
+				"advertC",
+				"advertCar"
+			],
+			[
+				"LI",
+				"LIMIT"
+			],
+			[
+				"Limit",
+				"LIMIT"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"Cla",
+				"ClassName"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"news",
+				"newsTemplate"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cat",
+				"cat_head"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"OR",
+				"ORDER"
+			],
+			[
+				"F",
+				"FROM"
+			],
+			[
+				"advert",
+				"advertEst"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"row",
+				"rowAdv"
+			],
+			[
+				"pet",
+				"petCat2"
+			],
+			[
+				"get",
+				"getDetails"
+			],
+			[
+				"popup-box",
+				"popup-box-location"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"city",
+				"city_name"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ima",
+				"imageId"
+			],
+			[
+				"qye",
+				"querySelectorAll"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"price",
+				"priceVal"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"count",
+				"countCel"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"getEleme",
+				"getElementsByTagName"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"reset",
+				"resetSubcatId"
+			],
+			[
+				"res",
+				"resid"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"Class",
+				"className"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"adve",
+				"advertEst"
+			],
+			[
+				"padin",
+				"padding"
+			],
+			[
+				"e",
+				"scroll_el"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_array"
+			],
+			[
+				"curre",
+				"currency"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_field"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"le",
+				"legend	Tag"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ver",
+				"Verdana"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"TEXT",
+				"text-transform"
+			],
+			[
+				"обя",
+				"объявления"
+			],
+			[
+				"not",
+				"nofoto"
+			],
+			[
+				"mysql_fetc",
+				"mysql_fetch_array"
+			],
+			[
+				"drop",
+				"drop-files"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"ch",
+				"checkval"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ip",
+				"important"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"suc",
+				"subcat_name"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"CON",
+				"console"
+			],
+			[
+				"err",
+				"errTitle"
+			],
+			[
+				"total",
+				"totalQtyDesc"
+			],
+			[
+				"ad",
+				"adv-desc"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"foa",
+				"float"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"lo",
+				"loginAr"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"x",
+				"xhttp"
+			],
+			[
+				"login",
+				"loginInput"
+			],
+			[
+				"eror",
+				"error"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/server/OpenServer/domains/wpress/__clean_html_original"
+	],
+	"file_history":
+	[
+		"/E/server/OpenServer/domains/sass/sassproject/gulpfile.js",
+		"/E/server/OpenServer/domains/sass/sassproject/sass/style.sass",
+		"/E/server/OpenServer/domains/sass/sassproject/css/style.css",
+		"/E/server/OpenServer/domains/sass/sassproject/index.html",
+		"/E/server/OpenServer/domains/sass/myproject/gulpfile.js",
+		"/E/server/OpenServer/domains/sass/myproject/sass/main.sass",
+		"/E/server/OpenServer/domains/wpress/_clean_html/index.html",
+		"/E/server/OpenServer/domains/wpress/__clean_html_original/index.html",
+		"/E/server/OpenServer/domains/wpress/_clean_html/css/sass/main.sass",
+		"/E/server/OpenServer/domains/wpress/_clean_html/css/sass/fonts.sass",
+		"/E/server/OpenServer/domains/project/views/project/showcat.php",
+		"/E/server/OpenServer/domains/project/views/project/css/style.css",
+		"/E/server/OpenServer/domains/project/views/project/showadv.php",
+		"/E/server/OpenServer/domains/project/views/project/js/workscripts.js",
+		"/E/server/OpenServer/domains/project/views/project/inc/header.php",
+		"/E/server/OpenServer/domains/project/views/project/main.php",
+		"/E/server/OpenServer/domains/project/functions/functions.php",
+		"/E/server/OpenServer/domains/project/model/model.php",
+		"/E/server/OpenServer/domains/project/controller/controller.php",
+		"/E/server/OpenServer/domains/project/views/project/regadvert.php",
+		"/opt/lampp/htdocs/project/views/project/inc/line.php",
+		"/opt/lampp/htdocs/project/views/project/showcat.php",
+		"/root/Desktop/table.html",
+		"/opt/lampp/htdocs/project/views/project/js/googleMap.js",
+		"/opt/lampp/htdocs/project/views/project/inc/footer.php",
+		"/opt/lampp/htdocs/project/views/project/inc/header_tmp.php",
+		"/opt/lampp/htdocs/project/functions/functions.php",
+		"/opt/lampp/htdocs/project/views/project/showadv.php",
+		"/opt/lampp/htdocs/project/views/project/main.php",
+		"/opt/lampp/htdocs/project/views/project/index.php",
+		"/opt/lampp/htdocs/project/config.php",
+		"/opt/lampp/htdocs/project/index.php",
+		"/run/media/root/Transcend/project/nov/13/project/views/project/inc/header.php",
+		"/run/media/root/Transcend/project/nov/13/project/views/project/js/workscripts.js",
+		"/run/media/root/Transcend/project/nov/13/project/views/project/regadvert.php",
+		"/run/media/root/Transcend/project/nov/13/project/views/project/css/style.css",
+		"/opt/lampp/htdocs/project/views/project/css/font-awesome.css",
+		"/opt/lampp/htdocs/project/views/project/css/font-awesome.min.css",
+		"/root/Desktop/index.html",
+		"/home/user/Desktop/itvdn/form_val/form_validate.html",
+		"/home/user/Desktop/itvdn/08-08/formsubmit1.html",
+		"/opt/lampp/htdocs/project/views/project/js/protojs.js",
+		"/root/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/root/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/opt/lampp/htdocs/project/views/project/js/workscripts.js",
+		"/root/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/root/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/root/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/opt/lampp/htdocs/project/model/new.html",
+		"/opt/lampp/htdocs/project/views/project/css/style.css",
+		"/opt/lampp/htdocs/project/model/new.php",
+		"/opt/lampp/htdocs/project/views/project/js/minifyJS.js",
+		"/run/media/root/Transcend/project/18-10/project/views/project/js/workscripts.js",
+		"/opt/lampp/htdocs/project/views/project/inc/header.php",
+		"/home/user/Desktop/itvdn/form_val/style.css",
+		"/home/user/Desktop/itvdn/form_val/validate.js",
+		"/opt/lampp/htdocs/project_work/views/project/js/workscripts.js",
+		"/opt/lampp/htdocs/project/views/project/js/workscripts_post_ad.js",
+		"/opt/lampp/htdocs/project_work/model/index.php",
+		"/home/user/Desktop/itvdn/JavaScript Advanced Student Materials/007_Формы и элементы форм/03_Validation/Validate_002.js",
+		"/home/user/Desktop/itvdn/JavaScript Advanced Student Materials/007_Формы и элементы форм/03_Validation/Validate_001.js",
+		"/home/user/Desktop/itvdn/JavaScript Advanced Student Materials/007_Формы и элементы форм/03_Validation/003_FormValidation.htm",
+		"/home/user/Desktop/itvdn/JavaScript Advanced Student Materials/007_Формы и элементы форм/03_Validation/001_FormValidation.html",
+		"/home/user/Desktop/itvdn/JavaScript Advanced Student Materials/007_Формы и элементы форм/03_Validation/002_FormValidation.htm",
+		"/opt/lampp/htdocs/project/views/project/js/myAngular.js",
+		"/home/user/Desktop/itvdn/project/postad.html",
+		"/home/user/Desktop/itvdn/project/phones.html",
+		"/home/user/Desktop/itvdn/project/ang.js",
+		"/opt/lampp/htdocs/project/.htaccess",
+		"/home/user/Documents/Kostya/2016/jun/ftp/servers.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/msgboxdms.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/msgboxbase.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/msgboxftp.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/users.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/paths.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/dmsuser.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/ioprocess.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/iobox.py",
+		"/home/user/Documents/Kostya/2016/jun/ftp/ftp.py",
+		"/home/user/Desktop/itvdn/project/style.css",
+		"/opt/lampp/htdocs/project/views/project/js/functions.js",
+		"/opt/lampp/htdocs/project/views/project/reg.php",
+		"/opt/lampp/htdocs/ruby/index.php",
+		"/run/media/user/Transcend/Inetmagaz/ishop/views/ishop/css/style.css",
+		"/run/media/user/Transcend/Inetmagaz/ishop/views/ishop/cat.php",
+		"/opt/lampp/htdocs/project/views/project/addimage.php",
+		"/opt/lampp/htdocs/formdata/upload.php",
+		"/opt/lampp/htdocs/formdata/formdata.js",
+		"/opt/lampp/htdocs/formdata/index.html",
+		"/home/user/Desktop/Product/css/global.css",
+		"/home/user/Desktop/Product/index.html",
+		"/home/user/Desktop/api/api-tfd.git/send_xmldata.php",
+		"/home/user/Desktop/api/api-tfd.git/config.php",
+		"/home/user/Desktop/api/api-tfd.git/get_xml.php",
+		"/run/media/user/Transcend/project/product-detail.html",
+		"/opt/lampp/htdocs/project/views/project/enter.php",
+		"/opt/lampp/htdocs/project/views/project/js/addPhoto.js",
+		"/run/media/user/Transcend/archiv07/tmp/other/web/goldads/addimage.php",
+		"/run/media/user/Transcend/archiv07/tmp/other/web/goldads/image.php",
+		"/opt/lampp/htdocs/project/model/addPhoto.php",
+		"/opt/lampp/htdocs/project/views/project/inc/leftbar.php",
+		"/opt/lampp/htdocs/formdata/style.css",
+		"/opt/lampp/htdocs/project/tmp.html",
+		"/opt/lampp/htdocs/project/views/project/inc/header1.php",
+		"/opt/lampp/htdocs/project/views/project/images/adv.png",
+		"/opt/lampp/htdocs/project/views/project/images/categor.png",
+		"/opt/lampp/htdocs/project/MyProject.sublime-project",
+		"/C/xampp/htdocs/project/views/project/js/jquery.maskedinput-1.2.2.js",
+		"/C/xampp/htdocs/project/.htaccess",
+		"/H/project/17-12/project/views/project/css/style.css",
+		"/C/xampp/htdocs/project/views/project/index.php",
+		"/C/xampp/htdocs/project/views/project/regadvert_.php",
+		"/C/xampp/htdocs/project/views/project/inc/header.php",
+		"/C/xampp/htdocs/project/views/project/css/font-awesome.min.css",
+		"/C/xampp/htdocs/project/views/project/reg.php",
+		"/C/xampp/htdocs/project/views/project/enter.php",
+		"/C/xampp/htdocs/project/functions/functions.php",
+		"/C/xampp/htdocs/project/views/project/js/workscripts.js",
+		"/H/Kostya/caterogy_list",
+		"/C/xampp/htdocs/project/views/project/inc/leftbar.php",
+		"/C/xampp/htdocs/project/views/project/main.php",
+		"/C/xampp/htdocs/project/model/model.php",
+		"/C/xampp/htdocs/project/controller/controller.php",
+		"/C/xampp/htdocs/project/views/project/page.php",
+		"/C/xampp/htdocs/project/config.php",
+		"/C/xampp/htdocs/project/views/project/css/style.css",
+		"/C/xampp/htdocs/project/views/project/regadvert.php",
+		"/C/xampp/htdocs/project/views/index.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"png",
+			"photobig",
+			"no-photobig.gif",
+			"отображение",
+			"динами",
+			"$('#loader').fadeIn();",
+			"$('#loader').delay(200).fadeOut();",
+			"beforeSend",
+			"все объявления раздела",
+			"cat-style",
+			"for_free",
+			"no",
+			"#advWrap3",
+			"advWrap3",
+			"work_type",
+			"vac_type()",
+			"res_int",
+			"cat-style",
+			"#advContact",
+			"body #data-search",
+			"0px",
+			"#actions",
+			"advDesc",
+			"FF8403",
+			"favorites",
+			" a ",
+			"favorites",
+			"Отправить",
+			"body #advWrap3",
+			"noimage.gif",
+			"#actions",
+			"360",
+			"#advPer",
+			"actions",
+			"объявлени",
+			"#advWrap2",
+			"advDesc",
+			"768",
+			"advPrice",
+			"Поисковый",
+			"sendMes",
+			".error",
+			"advform-value-desc",
+			"360",
+			"fa-phone-2",
+			"fa fa-phone-2",
+			"768",
+			"$_SESSION[for_free]",
+			"$_SESSION[torg]",
+			"$_SESSION['torg']",
+			"change",
+			"_COOKIE",
+			"location",
+			"popup-location",
+			"#photoPag",
+			"#photoPag img",
+			"width",
+			"width =",
+			"width = ",
+			">",
+			"\n        ",
+			"        console.log();\n\n",
+			"\n",
+			"w",
+			"#photoPag",
+			"fauser",
+			"#photoPag img",
+			"$option .= '<div style=\"margin-top: -22px\"></div>';",
+			"substr($idAdvert",
+			"substr",
+			"moreadv",
+			"advPhone",
+			"телефон",
+			"номер",
+			"Автора",
+			"Пробег",
+			"body .adv_adtnVal, body .adv_adtn",
+			"768",
+			"#otherAds",
+			"substr",
+			"#photoPag",
+			"ph",
+			"#photoPag img",
+			"фотогра",
+			"#photoPag img",
+			"#photoPag",
+			"#photoPag img",
+			"768",
+			"products",
+			"Объем",
+			"Обхем",
+			"Пробег",
+			"getNumberPrice",
+			"adv_adtn",
+			"address",
+			"#advPhone",
+			"href=''",
+			"href=\"\"",
+			"href",
+			"Car",
+			"Est",
+			"advertEst",
+			"Est",
+			"image",
+			"advert",
+			"advertCar",
+			"advert",
+			"advertCar",
+			"advert",
+			"advertEst",
+			"carCond",
+			"carTrans",
+			"<input type=\"checkbox\" name=\"change\" class=\"checkbox\" id=\"checkbox-2\">",
+			"torg",
+			"#addform-value-desc textarea",
+			"#addform-value input",
+			"#addform-value-desc textarea",
+			"data-region-value",
+			"#data-city",
+			"carMark()",
+			"<input type=\"checkbox\" name=\"change\" class=\"checkbox\" id=\"checkbox-2\">",
+			"currency",
+			"loader",
+			"png",
+			"loader",
+			"close",
+			"100",
+			"carMark()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nofoto2.png",
+			"//$('#loader').fadeIn();",
+			"//$('#loader').delay(200).fadeOut();",
+			"work_sal",
+			"",
+			"<input type=\"checkbox\" name=\"change\" value=\"change\" class=\"checkbox\" id=\"checkbox-2\">",
+			"127.0.0.1",
+			"mysqli_query",
+			"outline: 0px solid",
+			"font-size: 0.875em;",
+			"outline: 0px solid",
+			"outline: 1px solid",
+			"<input type=\"text\" name=\"addr\" id=\"addr\" class=\"shadow1\" autocomplete=\"off\" maxlength=\"75\" title=\"указанный адрес будет отображен на карте\"/>",
+			"</th> <td class='adv_adtnVal'>",
+			"<th class='adv_adtn'>",
+			"",
+			"data-man",
+			"",
+			"->",
+			"$_SESSION['adPub']",
+			"",
+			"500",
+			"\"566\"",
+			"href=\"\"",
+			"contactElem",
+			"#929292",
+			"<a href=\"index.php?view=showadv&id=1\">",
+			"<a href=\"view=showadv&id=1\">",
+			"phone",
+			"<span class=\"indCat\"><i class=\"fa fa-bookmark-o\"></i>Легковые автомобили</span>",
+			"<span class=\"indCat\"><i class=\"fa fa-bookmark-o\"></i>",
+			"<span class=\"indCatC\">",
+			"<span class=\"indCityC\">",
+			"<h2><a href=\"\">Заголовок объявления Заголовок </a></h2>",
+			"1500 USD</div>",
+			"<!--<p>Текст объявления, тут что-то продаем или покупаем \n			  или что-то меняем на что-то очень хорошее или что-то меняем на что-то очень хорошее\n			  лимит на количество символов</p>			  -->",
+			"3.jpg",
+			"categor",
+			"торг",
+			"input-addon",
+			"border-radius:4px;",
+			"shadow1",
+			"border-radius: 4px;",
+			"#b94a48",
+			"border-radius: 5px;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wpress.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ad",
+				"/opt/lampp/htdocs/project/views/project/regadvert.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
