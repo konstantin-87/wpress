@@ -4,6 +4,7 @@ $color: #FF6347 //Theme skin
 $text_color: #888
 $main_color: #222
 $bg_light: #FAFAFA
+$social_color: #0088cc
 
 @mixin kerning($kerning)
 	letter-spacing: $kerning + px
@@ -11,6 +12,7 @@ $bg_light: #FAFAFA
 body
 	color: $main_color
 	+kerning(1)
+
 
 a
 	color: $color
@@ -24,3 +26,90 @@ p
 	background-color: $color
 .color_border
 	border-color: $color
+
+.main_color_bg
+	// background-color: $main_color
+
+	path
+		fill: $text_color
+
+.bg_light
+	background-color: $bg_light	
+
+.bg_dark
+	background-color: $main_color
+	color: #fff	
+	.s_descr::after
+		background-color: #FFF
+	a
+		color: #fff
+
+
+.top_menu 
+	a:hover
+		color: $color
+	a
+		+kerning(4)
+
+.top_text
+	p
+		color: $bg_light
+		+kerning(5)
+
+.s_descr
+	+kerning(5)	
+	&::after
+		background-color: $main_color
+
+p,
+body .main_footer,
+.s_about
+	color: $text_color
+	+kerning(0)
+
+section
+	h3
+		+kerning(3)	
+		color: $text_color	
+
+.s_about
+	p:nth-child(even)
+		color: $color
+
+.personal_header 
+	+kerning(3)
+
+.social_wrap
+	a
+		color: $social_color
+		&:hover
+			color: #32baf2
+
+.resume_container
+	h3
+		color: $main_color
+		+kerning(2)
+		font-size: 14px
+		font-weight: 400
+	.left .resume_descr strong
+		margin-left: 10px
+	.right .resume_descr strong
+		margin-right: 10px
+
+
+.resume_icon
+	color: $text_color
+
+.resume_item 
+	.year
+		background-color: $color
+		color: #ffff
+		font-weight: 600
+		font-style: italic		
+
+.resume_descr
+	color: $main_color
+
+.resume_item
+	p
+		color: #333

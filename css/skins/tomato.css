@@ -16,3 +16,79 @@ p {
 
 .color_border {
   border-color: #FF6347; }
+
+.main_color_bg path {
+  fill: #888; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #FFF; }
+  .bg_dark a {
+    color: #fff; }
+
+.top_menu a:hover {
+  color: #FF6347; }
+.top_menu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+p,
+body .main_footer,
+.s_about {
+  color: #888;
+  letter-spacing: 0px; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #FF6347; }
+
+.personal_header {
+  letter-spacing: 3px; }
+
+.social_wrap a {
+  color: #0088cc; }
+  .social_wrap a:hover {
+    color: #32baf2; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 400; }
+.resume_container .left .resume_descr strong {
+  margin-left: 10px; }
+.resume_container .right .resume_descr strong {
+  margin-right: 10px; }
+
+.resume_icon {
+  color: #888; }
+
+.resume_item .year {
+  background-color: #FF6347;
+  color: #ffff;
+  font-weight: 600;
+  font-style: italic; }
+
+.resume_descr {
+  color: #222; }
+
+.resume_item p {
+  color: #333; }
+
+/*# sourceMappingURL=tomato.css.map */
