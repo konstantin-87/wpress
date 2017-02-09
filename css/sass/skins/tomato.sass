@@ -113,3 +113,27 @@ section
 .resume_item
 	p
 		color: #333
+
+.s_portfolio 
+	li
+		color: $text_color
+		+kerning(2)
+		&.active
+			color: #fff
+			border-bottom: #fff 1px solid
+
+.portfolio_item .port_item_container
+	a		
+		border-color: $color
+		color: $color
+
+
+.toggle_menu
+	&:hover
+		background: #111215
+
+.sandwich
+	&:hover
+		.sw-topper, .sw-bottom, .sw-footer
+			background-color: $color
+			+transition(all 0.8s ease)

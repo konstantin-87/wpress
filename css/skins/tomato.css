@@ -91,4 +91,24 @@ section h3 {
 .resume_item p {
   color: #333; }
 
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: #fff 1px solid; }
+
+.portfolio_item .port_item_container a {
+  border-color: #FF6347;
+  color: #FF6347; }
+
+.toggle_menu:hover {
+  background: #111215; }
+
+.sandwich:hover .sw-topper, .sandwich:hover .sw-bottom, .sandwich:hover .sw-footer {
+  background-color: #FF6347;
+  -webkit-transition: all 0.8s ease;
+  -moz-transition: all 0.8s ease;
+  transition: all 0.8s ease; }
+
 /*# sourceMappingURL=tomato.css.map */

@@ -1,6 +1,16 @@
 $(document).ready(function() {
 
+	var containerEl = document.querySelector('.portfolio_grid');
+      var mixer = mixItUp(containerEl);
+
+
+	$(".s_portfolio li").on('click', function() {
+		$(".s_portfolio li").removeClass("active");		
+		$(this).addClass("active");
+	});
+
 	$(".popup").magnificPopup({type:"image"});
+	$(".popup_content").magnificPopup({type:"inline", midClick: true, closeBtnInside:true});
 
 	$(".top_text h1").animated("fadeInDown", "fadeOutUp");
 	$(".top_text p, .section_header").animated("fadeInUp", "fadeOutDown");
@@ -45,6 +55,13 @@ $(document).ready(function() {
 	// 	backgroundColor: "rgba(255,255,255,.05)"
 	// });
 
+	$(".portfolio_item").each(function(i) {
+		$(this).find("a").attr("href", "#work_" + i );
+		$(this).find(".port_descr").attr("id", "work_" + i );
+		console.log(i);
+	});
+ 	
+
 	
 });
 
@@ -52,3 +69,4 @@ $(window).on("load", function() {
 	$(".loader_inner").fadeOut(); 
 	$(".loader").delay(400).fadeOut("slow"); 
 });
+
