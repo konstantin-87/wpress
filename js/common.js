@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	var containerEl = document.querySelector('.portfolio_grid');
-      var mixer = mixItUp(containerEl);
+	var mixer = mixItUp(containerEl);
 
 
 	$(".s_portfolio li").on('click', function() {
@@ -30,7 +30,7 @@ $(document).ready(function() {
 	});
 
 	$(".toggle_menu").on("click", function() {
-	  $(".sandwich").toggleClass("active");
+		$(".sandwich").toggleClass("active");
 	});
 
 	$(".top_menu ul a").on("click", function() {
@@ -60,9 +60,9 @@ $(document).ready(function() {
 		$(this).find(".port_descr").attr("id", "work_" + i );
 		console.log(i);
 	});
- 	
 
-	
+
+
 });
 
 $(window).on("load", function() { 	
