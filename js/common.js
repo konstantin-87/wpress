@@ -3,6 +3,7 @@ $(document).ready(function() {
 	var containerEl = document.querySelector('.portfolio_grid');
 	var mixer = mixItUp(containerEl);
 
+ // $(function () { $("input,select,textarea").jqBootstrapValidation(); } );
 
 	$(".s_portfolio li").on('click', function() {
 		$(".s_portfolio li").removeClass("active");		
@@ -18,7 +19,6 @@ $(document).ready(function() {
 	$(".slide_left").animated("fadeInLeft", "fadeOutLeft");
 	$(".slide_right").animated("fadeInRight", "fadeOutRight");
 	$(".slide_img").animated("flipInY", "flipOutY");
-
 
 
 	function heightDetect() {

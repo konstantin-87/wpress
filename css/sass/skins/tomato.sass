@@ -137,3 +137,27 @@ section
 		.sw-topper, .sw-bottom, .sw-footer
 			background-color: $color
 			+transition(all 0.8s ease)
+
+.contacts-icon
+	color: $color
+
+form
+	input,
+	textarea
+		+kerning(2)
+		background-color: transparent
+	input:focus,
+	textarea:focus
+		border: 1px solid $social_color
+		color: #333
+	// button
+	input[type="submit"]
+		background-color: $color
+		color: #fff
+		+kerning(2)
+		&:hover
+			background-color: #e06c50
+
+.form-group
+	ul
+		color: red

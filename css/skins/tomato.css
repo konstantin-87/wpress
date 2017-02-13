@@ -111,4 +111,25 @@ section h3 {
   -moz-transition: all 0.8s ease;
   transition: all 0.8s ease; }
 
+.contacts-icon {
+  color: #FF6347; }
+
+form input,
+form textarea {
+  letter-spacing: 2px;
+  background-color: transparent; }
+form input:focus,
+form textarea:focus {
+  border: 1px solid #0088cc;
+  color: #333; }
+form input[type="submit"] {
+  background-color: #FF6347;
+  color: #fff;
+  letter-spacing: 2px; }
+  form input[type="submit"]:hover {
+    background-color: #e06c50; }
+
+.form-group ul {
+  color: red; }
+
 /*# sourceMappingURL=tomato.css.map */
